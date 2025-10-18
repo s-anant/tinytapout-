@@ -8,13 +8,9 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
-
+First we take input from the switches, than it goes to the input, throught the and logic gate, finally going through one end of the LED. 
 ## How to test
-
-Explain how to use your project
-
+Switch on pins 1 and 3. 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+External hardware used in our project is LED. 
